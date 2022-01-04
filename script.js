@@ -10,7 +10,7 @@ function additem(){
         input.value = "";
     }
     else{
-        throw newError ("Dette er en feilmelding")
+        throw Error ("Dette er en feilmelding")
     }
 }
 
