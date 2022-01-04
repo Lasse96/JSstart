@@ -14,4 +14,6 @@ function additem(){
     }
 }
 
-// console.log(ul);
+// console.log("Tirsdag");
+// console.log(+ (3*6));
+// window.alert("Lasse");
